@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahsin Zaman Jilan</h1>
 <h3 align="center">An undergrad student and Developer from Bangladeash</h3>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)"
+<img align="right" alt="Coding" width="400" src="(https://github.com/Tahsin-Zaman-Jilan/Tahsin-Zaman-Jilan/assets/77837621/3dadd781-36c5-4f60-bd2e-7569654076ac)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsin-zaman-jilan&label=Profile%20views&color=0e75b6&style=flat" alt="tahsin-zaman-jilan" /> </p>
 

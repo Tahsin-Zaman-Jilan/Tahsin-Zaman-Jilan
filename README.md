@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://jilanportfolio.netlify.app/](https://jilanportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available [Here](https://jilanportfolio.netlify.app/)
 
 - 📫 How to reach me **tahsin.zaman.jilan@g.bracu.ac.bd**
 

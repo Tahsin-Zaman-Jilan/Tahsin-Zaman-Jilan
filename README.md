@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tahsin Zaman Jilan</h1>
-<h3 align="center">An Undergrad student and Developer from Bangladeash</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<h1 align="center">Hi 👋, I'm Jilan a Developer from Bangladesh</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsin-zaman-jilan&label=Profile%20views&color=0e75b6&style=flat" alt="tahsin-zaman-jilan" /> </p>
@@ -9,17 +7,15 @@
 
 - 🔭 I’m currently working on **full stack web development**
 
-- 🌱 I’m currently learning **NextJS**
-
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available [Here](https://jilanportfolio.netlify.app/)
+- 👨‍💻 My Portfolio is [Here](https://jilanportfolio.netlify.app/)
 
 - 📫 How to reach me **tahsin.zaman.jilan@g.bracu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zilanjaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zilanjaman" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/tahsin-zaman-jilan-b16102204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahsin-zaman-jilan-b16102204" height="30" width="40" /></a>
 </p>
 

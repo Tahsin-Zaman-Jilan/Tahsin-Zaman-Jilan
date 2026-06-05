@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jilan</h1>
+<h1 align="center">Hi 👋, I'm Tahsin</h1>
 <h3 align="center">PhD Researcher in CS · Robotics & AI · North Carolina A&T State University</h3>
 
 <p align="left">

@@ -10,7 +10,7 @@
 ### 🔬 Research Domains
 
 - **Robot Learning & Simulation** — reinforcement learning, manipulation tasks, physics-based sim environments
-- **Computer Vision** — object detection, look-through / X-ray perception, edge deployment
+- **Computer Vision** — object detection, edge deployment
 - **Autonomous Systems** — sensor fusion, robotic arm control, real-to-sim transfer
 - **Edge AI** — model deployment on NVIDIA Jetson (AGX Orin), TensorRT optimization
 
